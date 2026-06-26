@@ -1,0 +1,396 @@
+{
+  "main": {
+    "id": "3680200d65624817",
+    "type": "split",
+    "children": [
+      {
+        "id": "68d0c42a7017c449",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82699103aed47310",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2408124609e670fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3453 - Separate Squares I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3453 - Separate Squares I"
+            }
+          },
+          {
+            "id": "d875b47e5b6b3798",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3453 - Separate Squares I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3453 - Separate Squares I"
+            }
+          },
+          {
+            "id": "7f187a05dcd2c79c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem of the Day (2026) - Leetcode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Problem of the Day (2026) - Leetcode"
+            }
+          },
+          {
+            "id": "75d1e100c93dc36e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d4f8e701903243f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reliability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reliability"
+            }
+          },
+          {
+            "id": "8fb4f2b779111008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POTD/3453 - Separate Squares I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3453 - Separate Squares I"
+            }
+          },
+          {
+            "id": "20ce2ad80daff100",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8735f96b59f55935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Learning Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning Python"
+            }
+          },
+          {
+            "id": "71e014159a25cc0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Binary Trees/3. LCA of Deepest Leaves (LC 865, 1123).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. LCA of Deepest Leaves (LC 865, 1123)"
+            }
+          },
+          {
+            "id": "3a67d0ed71a4612e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clarify nullability of Map.getGlyphs() and allow unsetting glyphs in setGlyphs() (6915).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clarify nullability of Map.getGlyphs() and allow unsetting glyphs in setGlyphs() (6915)"
+            }
+          },
+          {
+            "id": "6be59757f6502c5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "035b475050e970a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clarify nullability of Map.getGlyphs() and allow unsetting glyphs in setGlyphs() (6915).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clarify nullability of Map.getGlyphs() and allow unsetting glyphs in setGlyphs() (6915)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b8f560a6abbefa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e582f6c63e1ff5c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afe5764dd8104829",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "331edc6933c55eea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2cdce04b5d0d243a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb9a0735bb744a35",
+    "type": "split",
+    "children": [
+      {
+        "id": "f43e8bf350749550",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cae60caba181454d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arrays/Binary Search.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Binary Search"
+            }
+          },
+          {
+            "id": "d9e238ffc3b6225f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arrays/Binary Search.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Binary Search"
+            }
+          },
+          {
+            "id": "6daef0107316bf63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eb5b4bb844c42993",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5d32a8f599af034d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arrays/Binary Search.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Binary Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "82699103aed47310",
+  "lastOpenFiles": [
+    "POTD/1895. Largest Magic Square.md",
+    "Maplibre GL JS.md",
+    "Segment Tree.md",
+    "Reliability.md",
+    "Problem of the Day (2026) - Leetcode.md",
+    "Pasted image 20260120151845.png",
+    "Pasted image 20260120122656.png",
+    "DSA/Binary Search/Binary Search.md",
+    "Designing Data-Intensive Applications/Chapter 1 - Reliable, Scalable, and Maintainable Applications.md",
+    "DSA/Binary Trees/Lowest Common Ancestor.md",
+    "DSA/Linked List/Linked List.md",
+    "Pasted image 20260108123024.png",
+    "Untitled.canvas",
+    "DSA/Graphs/Graphs.md",
+    "DSA/Graphs/Graph Representation.md",
+    "Pasted image 20260113180219.png",
+    "Pasted image 20251212170333.png",
+    "Fix incorrect type for `_controlPositions` in `Map.ts` controlposition (6077).md",
+    "DSA/Binary Trees/Common Tree Problems.md",
+    "Clarify nullability of Map.getGlyphs() and allow unsetting glyphs in setGlyphs() (6915).md",
+    "DSA/notes.zip",
+    "DSA/Queue.zip",
+    "DSA/Priority Queue.md",
+    "DSA/Graph Traversal Method.md",
+    "DSA/Linked List Cycle Detection II.excalidraw",
+    "DSA/Breadth First Search.md",
+    "docs(raster) - clarify tileSize usage with 256px tiles and improve examples (5912).md",
+    "docs(raster) - clarify tileSize usage with 256px tiles and improve examples.md",
+    "Dreamfields Interview Plan.md",
+    "Untitled 1.md",
+    "Untitled",
+    "Fix incorrect type for `_controlPositions` in `Map.ts` controlposition.md",
+    "Fix incorrect type for `_controlPositions` in `Map.ts` controlposition 1.md",
+    "Graph Traversal Method.md",
+    "DSA/Binary Trees/3. LCA of Deepest Leaves (LC 865, 1123).md",
+    "Open Source Contribution",
+    "DSA/Binary Trees/2. LCA in a Binary Search Tree (BST).md",
+    "DSA/Queue",
+    "Python",
+    "Designing Data-Intensive Applications",
+    "Segment Tree",
+    "Pasted image 20260113175522.png",
+    "POTD",
+    "Pasted image 20260110141229.png",
+    "Pasted image 20260110124245.png",
+    "Pasted image 20260110114110.png",
+    "Pasted image 20260109161538.png"
+  ]
+}
