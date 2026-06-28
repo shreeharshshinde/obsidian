@@ -49,7 +49,7 @@ bool hasCycle(ListNode *head) {
 ##### Advanced Variation : [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 Not only do you detect a cycle, but you must **find the exact node where the cycle begins**.
 
-![[Pasted image 20251211223604.png]]
+![[Images/Pasted image 20251211223604.png]]
 
 ```cpp
 ListNode* detectCycle(ListNode* head) {
@@ -76,7 +76,7 @@ ListNode* detectCycle(ListNode* head) {
 }
 ```
 
-![[Pasted image 20251211223451.png]]
+![[Images/Pasted image 20251211223451.png]]
 
 ```cpp
 ListNode* reverseList(ListNode* head) {
@@ -94,4 +94,4 @@ ListNode* reverseList(ListNode* head) {
 }
 ```
 
-![[Pasted image 20251212170333.png]]
+![[Images/Pasted image 20251212170333.png]]

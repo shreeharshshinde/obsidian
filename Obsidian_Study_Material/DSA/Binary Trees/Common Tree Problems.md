@@ -15,7 +15,7 @@ int maxDepth(TreeNode* root) {
 ```
 
 - Minimum depth
-![[Pasted image 20260110114110.png]]
+![[Images/Pasted image 20260110114110.png]]
 
 ```cpp
 int minDepth(TreeNode* root) {
@@ -58,7 +58,7 @@ int minDepth(TreeNode* root) {
 ```
 
 - Count nodes
-![[Pasted image 20260110124245.png]]
+![[Images/Pasted image 20260110124245.png]]
 
 ```cpp
 int countNodes(TreeNode* root) {
@@ -83,7 +83,7 @@ int sumBT(Node* root) {
 
 - Invert binary tree
 	Do not swap values, swap the entire node
-	![[Pasted image 20260110141229.png]]
+	![[Images/Pasted image 20260110141229.png]]
 	```cpp
 	TreeNode* invertTree(TreeNode* root) {
 		if(!root) return nullptr;

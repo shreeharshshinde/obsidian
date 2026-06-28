@@ -11,10 +11,14 @@
             "id": "82699103aed47310",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Linked List/Linked List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linked List"
             }
           },
           {
@@ -345,6 +349,9 @@
   },
   "active": "82699103aed47310",
   "lastOpenFiles": [
+    "DSA/Graphs/Graph Representation.md",
+    "DSA/Graph Traversal Method.md",
+    "DSA/Breadth First Search.md",
     "POTD/1895. Largest Magic Square.md",
     "Maplibre GL JS.md",
     "Segment Tree.md",
@@ -359,7 +366,6 @@
     "Pasted image 20260108123024.png",
     "Untitled.canvas",
     "DSA/Graphs/Graphs.md",
-    "DSA/Graphs/Graph Representation.md",
     "Pasted image 20260113180219.png",
     "Pasted image 20251212170333.png",
     "Fix incorrect type for `_controlPositions` in `Map.ts` controlposition (6077).md",
@@ -368,9 +374,7 @@
     "DSA/notes.zip",
     "DSA/Queue.zip",
     "DSA/Priority Queue.md",
-    "DSA/Graph Traversal Method.md",
     "DSA/Linked List Cycle Detection II.excalidraw",
-    "DSA/Breadth First Search.md",
     "docs(raster) - clarify tileSize usage with 256px tiles and improve examples (5912).md",
     "docs(raster) - clarify tileSize usage with 256px tiles and improve examples.md",
     "Dreamfields Interview Plan.md",

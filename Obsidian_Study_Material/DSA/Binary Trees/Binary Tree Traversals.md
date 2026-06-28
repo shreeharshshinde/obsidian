@@ -67,7 +67,7 @@ void postorder(TreeNode* root) {
 }
 ```
 
-![[Pasted image 20260108121028.png]]
+![[Images/Pasted image 20260108121028.png]]
 
 ### 3.2 Iterative DFS 
 Use these if the interviewer forbids recursion or asks to avoid Stack Overflow.
@@ -97,8 +97,8 @@ vector<int> preorderIterative(TreeNode* root) {
 
 #### Iterative In-order
 
-![[Pasted image 20260108123024.png]]
-![[Pasted image 20260108124423.png]]
+![[Images/Pasted image 20260108123024.png]]
+![[Images/Pasted image 20260108124423.png]]
 
 
 ```cpp

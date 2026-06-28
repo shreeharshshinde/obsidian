@@ -12,7 +12,7 @@ vide commonly needed functionality. For example, many applications need to:
 • Send a message to another process, to be handled asynchronously **(stream processing)**
 • Periodically crunch a large amount of accumulated data **(batch processing)**
 
-![[Pasted image 20260120122656.png]]
+![[Images/Pasted image 20260120122656.png]]
 
 In this book, we focus on three concerns that are important in most software systems:
 

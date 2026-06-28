@@ -1,6 +1,6 @@
 It is clearly Binary Search on Answers, Where we have to search mid (the accurate y, which separates the area between squares)
 
-![[Pasted image 20260113180219.png]]
+![[Images/Pasted image 20260113180219.png]]
 
  ```cpp
  double separateSqaures(vector<vector<int>>& squares) {
