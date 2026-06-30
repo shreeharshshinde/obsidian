@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "6bba40a5ecba5e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Linked List/Fast and Slow Pointers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fast and Slow Pointers"
+            }
+          },
+          {
             "id": "2408124609e670fd",
             "type": "leaf",
             "state": {
@@ -185,7 +199,8 @@
               "title": "Clarify nullability of Map.getGlyphs() and allow unsetting glyphs in setGlyphs() (6915)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -347,8 +362,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "82699103aed47310",
+  "active": "6bba40a5ecba5e9d",
   "lastOpenFiles": [
+    "DSA/Linked List/Linked List.md",
+    "DSA/Linked List/Fast and Slow Pointers.md",
+    "Images/Pasted image 20260630144656.png",
     "DSA/Graphs/Graph Representation.md",
     "DSA/Graph Traversal Method.md",
     "DSA/Breadth First Search.md",
@@ -362,7 +380,6 @@
     "DSA/Binary Search/Binary Search.md",
     "Designing Data-Intensive Applications/Chapter 1 - Reliable, Scalable, and Maintainable Applications.md",
     "DSA/Binary Trees/Lowest Common Ancestor.md",
-    "DSA/Linked List/Linked List.md",
     "Pasted image 20260108123024.png",
     "Untitled.canvas",
     "DSA/Graphs/Graphs.md",
@@ -383,9 +400,7 @@
     "Fix incorrect type for `_controlPositions` in `Map.ts` controlposition.md",
     "Fix incorrect type for `_controlPositions` in `Map.ts` controlposition 1.md",
     "Graph Traversal Method.md",
-    "DSA/Binary Trees/3. LCA of Deepest Leaves (LC 865, 1123).md",
     "Open Source Contribution",
-    "DSA/Binary Trees/2. LCA in a Binary Search Tree (BST).md",
     "DSA/Queue",
     "Python",
     "Designing Data-Intensive Applications",
@@ -394,7 +409,6 @@
     "POTD",
     "Pasted image 20260110141229.png",
     "Pasted image 20260110124245.png",
-    "Pasted image 20260110114110.png",
-    "Pasted image 20260109161538.png"
+    "Pasted image 20260110114110.png"
   ]
 }
